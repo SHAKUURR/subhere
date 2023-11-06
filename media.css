@@ -36,6 +36,10 @@
     border-radius: 0.8rem;
     padding: 4rem 1rem;
   }
+
+  .why:not(:last-child) {
+    margin-bottom: 4rem;
+  }
 }
 
 @media only screen and (max-width: 61.8125em) {
