@@ -25,7 +25,7 @@ ScrollReveal().reveal(".about-textbox, .about, .service, .why", {
 	delay: 110,
 	origin: "bottom",
 	interval: 500,
-	duration: 2200,
+	duration: 1500,
 });
 
 ScrollReveal().reveal(".other, .own", {
